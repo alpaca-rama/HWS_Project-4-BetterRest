@@ -11,6 +11,7 @@
 		812C8BDD28A4422300428BF3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 812C8BDC28A4422300428BF3 /* ContentView.swift */; };
 		812C8BDF28A4422900428BF3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 812C8BDE28A4422900428BF3 /* Assets.xcassets */; };
 		812C8BE228A4422900428BF3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 812C8BE128A4422900428BF3 /* Preview Assets.xcassets */; };
+		819EAE9D28A7AF61007EC228 /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 819EAE9C28A7AF61007EC228 /* SleepCalculator.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		812C8BDC28A4422300428BF3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		812C8BDE28A4422900428BF3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		812C8BE128A4422900428BF3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		819EAE9C28A7AF61007EC228 /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				812C8BDA28A4422300428BF3 /* Project_4_BetterRestApp.swift */,
 				812C8BDC28A4422300428BF3 /* ContentView.swift */,
+				819EAE9C28A7AF61007EC228 /* SleepCalculator.mlmodel */,
 				812C8BDE28A4422900428BF3 /* Assets.xcassets */,
 				812C8BE028A4422900428BF3 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				819EAE9D28A7AF61007EC228 /* SleepCalculator.mlmodel in Sources */,
 				812C8BDD28A4422300428BF3 /* ContentView.swift in Sources */,
 				812C8BDB28A4422300428BF3 /* Project_4_BetterRestApp.swift in Sources */,
 			);
